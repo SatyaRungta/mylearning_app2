@@ -1,3 +1,4 @@
+# Descriptive statistics includes basic statistics for knowing distribution of data
 data <- datasets::mtcars
 
 head(data)
