@@ -35,14 +35,11 @@ see links:
 
 Tidyverse is group of R packages
 
-
 EDA:
 dplyr : For data cleaning and manipulation
 tidyr : For data transformations- reshaping data
 <https://www.rdocumentation.org/packages/tidyr/versions/1.2.0>
 <https://tidyr.tidyverse.org/reference/nest.html#:~:text=Nesting%20creates%20a%20list%2Dcolumn,whole%20datasets%2C%20most%20notably%20models.>
-
-
 
 
 ## Data manipulation and cleaning with dplyr
